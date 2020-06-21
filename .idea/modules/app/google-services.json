@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611179017247",
+    "firebase_url": "https://gameduckhunt-bd.firebaseio.com",
+    "project_id": "gameduckhunt-bd",
+    "storage_bucket": "gameduckhunt-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611179017247:android:8b219c35d6e28e6d33912a",
+        "android_client_info": {
+          "package_name": "com.example.patohuntproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611179017247-c3bckb8nm9vlhnmvbifl5c4bpn682cl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patohuntproject",
+            "certificate_hash": "44610557aef5cc3ea0a486cf6087f1db78a15310"
+          }
+        },
+        {
+          "client_id": "611179017247-j6hgl0k9btjg4bkhml1j9r03tuo9ir5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8oM9GlUmc3QqrF1_ZJkNo-A8BYuGcJiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611179017247-j6hgl0k9btjg4bkhml1j9r03tuo9ir5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
